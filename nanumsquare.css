@@ -1,0 +1,63 @@
+@font-face {
+	font-family:'NanumSquare';
+	font-weight:400;
+	src:url(./fonts/NanumSquareR.eot);
+	src:local('Nanum Square Regular'),
+	local('NanumSquare R'),
+	local('Nanum Square R'),
+	local('NanumSquareR'),
+	local('나눔스퀘어 Regular'),
+	local('나눔스퀘어 보통'),
+	local('나눔스퀘어'),
+	url(./fonts/NanumSquareR.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/NanumSquareR.woff) format('woff'),
+	url(./fonts/NanumSquareR.ttf) format('truetype');
+	unicode-range:U+0-10FFFF;
+}
+@font-face {
+	font-family:'NanumSquare';
+	font-weight:700;
+	src:url(./fonts/NanumSquareB.eot);
+	src:local('Nanum Square Bold'),
+	local('NanumSquare B'),
+	local('Nanum Square B'),
+	local('나눔스퀘어 Bold'),
+	local('나눔스퀘어 B'),
+	local('나눔스퀘어 굵게'),
+	url(./fonts/NanumSquareB.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/NanumSquareB.woff) format('woff'),
+	url(./fonts/NanumSquareB.ttf) format('truetype');
+	unicode-range:U+0-10FFFF;
+}
+@font-face {
+	font-family:'NanumSquare';
+	font-weight:800;
+	src:url(./fonts/NanumSquareEB.eot);
+	src:local('Nanum Square ExtraBold'),
+	local('NanumSquare EB'),
+	local('Nanum Square EB'),
+	local('NanumSquareExtraBold'),
+	local('나눔스퀘어 ExtraBold'),
+	local('나눔스퀘어 EB'),
+	local('나눔스퀘어 아주 굵게'),
+	url(./fonts/NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/NanumSquareEB.woff) format('woff'),
+	url(./fonts/NanumSquareEB.ttf) format('truetype');
+	unicode-range:U+0-10FFFF;
+}
+@font-face {
+	font-family:'NanumSquare';
+	font-weight:300;
+	src:url(./fonts/NanumSquareL.eot);
+	src:local('Nanum Square Light'),
+	local('NanumSquare L'),
+	local('Nanum Square L'),
+	local('NanumSquareL'),
+	local('나눔스퀘어 Light'),
+	local('나눔스퀘어 L'),
+	local('나눔스퀘어 가늘게'),
+	url(./fonts/NanumSquareL.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/NanumSquareL.woff) format('woff'),
+	url(./fonts/NanumSquareL.ttf) format('truetype');
+	unicode-range:U+0-10FFFF;
+}
